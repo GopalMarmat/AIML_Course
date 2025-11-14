@@ -1,0 +1,1 @@
+Replace this file with your profile image named 'profile.jpg' (recommended 600x600px).
